@@ -1,2 +1,1 @@
-# Scolar-Eclipse-Animation
-SScolar Eclipse Animation for moon 
+![Example Image](screenofScolar.png)
